@@ -22,12 +22,10 @@ The project follows the following workflow:
 
 The repository contains the following files:
 
-- `data.csv`: The original Human Resource data in CSV format.
-- `schema.sql`: SQL script containing the table schema for creating the MySQL database tables.
-- `data_load.sql`: SQL script for loading the data from the CSV file into the MySQL database.
-- `data_cleaning.sql`: SQL script for performing data cleaning operations.
-- `eda.sql`: SQL script for executing exploratory data analysis queries.
-- `visualization.pbix`: PowerBI file containing the visualizations created from the result sets.
+- `HumanResource.csv`: The original Human Resource data in CSV format.
+- `hr_data_cleaning.sql`: SQL script for performing data cleaning operations.
+- `hr_analysis.sql`: SQL script for executing exploratory data analysis queries.
+- `human.pbix`: PowerBI file containing the visualizations created from the result sets.
 
 ## Requirements
 
