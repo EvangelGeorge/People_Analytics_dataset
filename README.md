@@ -34,26 +34,6 @@ To run this project, you need to have the following software installed:
 - MySQL: Used for creating and managing the database.
 - PowerBI: Used for data visualization.
 
-## Getting Started
-
-To get started with this project, follow these steps:
-
-1. Install MySQL and PowerBI on your machine.
-
-2. Clone this repository to your local machine or download the project files.
-
-3. Create a MySQL database using the `schema.sql` script.
-
-4. Load the Human Resource data into the MySQL database using the `data_load.sql` script.
-
-5. Execute the `data_cleaning.sql` script to perform data cleaning operations.
-
-6. Run the `eda.sql` script to execute exploratory data analysis queries and obtain result sets.
-
-7. Open PowerBI and import the result sets obtained from the SQL queries.
-
-8. Use PowerBI to create visualizations and dashboards based on the data.
-
 ## Conclusion
 
 By utilizing MySQL for data processing and PowerBI for visualization, this data analytics project provides valuable insights into the Human Resource data for a brand. The project demonstrates the effectiveness of SQL queries and PowerBI in analyzing and presenting data in a meaningful way.
